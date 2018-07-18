@@ -9,3 +9,4 @@ https://github.com/tkwoo/anogan-keras/blob/master/anogan.py
 https://github.com/kozistr/Awesome-GANs
 https://github.com/keras-team/keras-contrib/blob/master/examples/improved_wgan.py
 https://github.com/tonyabracadabra/WGAN-in-Keras/blob/master/mnist/dcgan.py
+https://github.com/tkarras/progressive_growing_of_gans
